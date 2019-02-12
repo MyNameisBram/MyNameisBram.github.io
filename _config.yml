@@ -1,11 +1,11 @@
 # Site settings
 author: Bram Tunggala
-title: 
+title: Decisions with Data 
 header-img: img/home-bg.png
 email: 4bramla@gmail.com
 copyright_name: Bram Tunggala
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Practical approach to Data Science 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  MyNameisBram
