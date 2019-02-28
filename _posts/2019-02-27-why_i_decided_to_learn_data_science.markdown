@@ -18,5 +18,5 @@ Throughout my career in manufacturing and finance, I’ve always enjoyed creatin
 
 4. Lifelong student. I believe learning is a lifelong pursuit and is a necessity to be relevant no matter what field you’re in. 
 
-With data exponentially growing in size year after year, there is vast opportunities to process, clean and create actionable items using data reinforcement. This is exciting because we have the opportunity to harness information to create something new or improve upon existing systems or processes. In conclusion, I wanted to learn data science to make better and decisions in order to create value.
+With data exponentially growing in size year after year, there is vast opportunities to process, clean and create actionable items using data reinforcement. This is exciting because we have the opportunity to harness information to create something new or improve upon existing systems or processes. In conclusion, I wanted to learn data science to make better decisions, in order to create value.
 
