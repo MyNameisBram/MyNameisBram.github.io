@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The Importance of Preprocessing"
-date:       2019-05-01 03:46:15 +0000
+date:       2019-04-30 23:46:16 -0400
 permalink:  the_importance_of_preprocessing
 ---
 
@@ -47,7 +47,7 @@ Knowing the makeup of your data is important prior to selecting model(s) you pla
 
 **Dealing with outliers**. There is no “one size fits all” advice dealing with [outliers](https://towardsdatascience.com/ways-to-detect-and-remove-the-outliers-404d16608dba). There are times when including outliers is appropriate, and times when they are not. Outliers might be the result of poor data collection, or they can be real anomalous data. 
 
-**Dealing with imbalanced data**. Imbalance data are a common problem with classification models. Most algorithms are designed to maximize accuracy and reduce error, therefore the models are optimized when the number of samples in each class are relatively equal. Some methods for dealing with imbalanced data are the following; 1) choosing a different performance metric 2) change the algorithm 3) resampling techniques, i.e. oversample minority class and under sample majority class 5) generate synthetic samples or SMOTE, uses nearest neighbors algorithm. These are a few possible methods in dealing with imbalanced data. 
+**Dealing with imbalanced data**. Imbalance data are a common problem with classification models. Most algorithms are designed to maximize accuracy and reduce error, therefore the models are optimized when the number of samples in each class are relatively equal. Some methods for dealing with imbalanced data are the following; 1) choosing a different performance metric 2) change the algorithm 3) resampling techniques, i.e. oversample minority class and under sample majority class 5) generate synthetic samples or SMOTE, uses nearest neighbors algorithm. These are a few possible methods in [dealing with imbalanced data](https://towardsdatascience.com/methods-for-dealing-with-imbalanced-data-5b761be45a18). 
 
 **Data transformation** is one of the most important characteristics in data preparation. Knowing which one to use, requires finesse and domain knowledge. There are vast options of transformation that exist.  A few common transformations are; 1) standardization 2) normalization 3) binarization 4) one-hot-encoding, transforms categorical features to a format that works better with classification and regression models 5) log distribution 6) min-max scaling, and many more. 
 
