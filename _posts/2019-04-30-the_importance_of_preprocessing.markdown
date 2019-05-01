@@ -17,7 +17,7 @@ The **OSEMiN** method is used as a general blueprint for the data science workfl
 
 **Data selection**. We start data preparation by obtaining our dataset. We want to be careful in selecting our data because if your data is [bias](https://towardsdatascience.com/what-is-ai-bias-6606a3bcb814), then the result of your machine learning model will reaffirm the bias, remember the adage, that your algorithm is only as good as the data you feed it. Therefore data selection and understanding your data is an important, and at times, a time consuming process. Since we’ll be using Python, much of the data manipulations will happen using [Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html). In this stage we’ll import our dataset using Pandas and start our initial cleaning and exploration. 
 
-**Scrubbin our data**. After importing our data, we check what our data looks like. During this process we check and deal with missing data. Common methods include but not limited to; dropping instances, dropping attributes, replace attributes/instances with its respective means for all missing values. [More examples here](http://pandas.pydata.org/pandas-docs/stable/user_guide/missing_data.html)
+**Scrubbing our data**. After importing our data, we check what our data looks like. During this process we check and deal with missing data. Common methods include but not limited to; dropping instances, dropping attributes, replace attributes/instances with its respective means for all missing values. [More examples here](http://pandas.pydata.org/pandas-docs/stable/user_guide/missing_data.html)
 ``` 
 # Drop the columns where all elements are missing values:
 df.dropna(axis=1, how='all')
