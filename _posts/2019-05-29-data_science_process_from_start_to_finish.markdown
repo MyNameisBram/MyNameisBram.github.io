@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Data Science process from Start to Finish"
-date:       2019-05-30 01:51:03 +0000
+date:       2019-05-29 21:51:04 -0400
 permalink:  data_science_process_from_start_to_finish
 ---
 
