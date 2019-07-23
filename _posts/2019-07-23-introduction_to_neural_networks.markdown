@@ -5,11 +5,6 @@ date:       2019-07-23 13:22:18 -0400
 permalink:  introduction_to_neural_networks
 ---
 
-
-- What is deep neural network?
-- How is a network trained? 
-- What is stochastic gradient method? 
-
 ## What is a neural network? 
 A [neural network](https://www.xenonstack.com/blog/artificial-neural-network-applications/) is a group of algorithms that certify the underlying relationship in a set of data similar to the human brain. The neural network helps to change the input so that the network gives the best result without redesigning the output procedure. A neural network, generally consists of three different layers. An input layer, hidden layer(s), and output layer. 
 
