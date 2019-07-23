@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Introduction to Neural Networks "
-date:       2019-07-23 17:22:17 +0000
+date:       2019-07-23 13:22:18 -0400
 permalink:  introduction_to_neural_networks
 ---
 
